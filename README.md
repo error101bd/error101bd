@@ -116,11 +116,12 @@
 <!--- snake -->
 <div align="center"> 
 
-![snake gif](https://github.com/error101bd/error101bd/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/error101bd/error101bd/blob/snake/github-snake-dark.svg)
 
 </div>
 
   <!--(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
